@@ -19,7 +19,7 @@ if (c[input] == 'i')
 input++; 
 EPRIME(); 
 } 
-void EPRIME()
+void EPRIME() 
 { 
 if (c[input]== '+') { 
 input++;  
